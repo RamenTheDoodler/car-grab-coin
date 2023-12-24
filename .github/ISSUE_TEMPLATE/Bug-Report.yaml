@@ -1,5 +1,6 @@
 name: 'Bug Report'
 description: 'Report a bug found in the latest update.'
+body:
 - type: markdown
   attributes:
     value: "# Thank you for submitting!"
