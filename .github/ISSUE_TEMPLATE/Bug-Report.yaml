@@ -1,25 +1,25 @@
-name: Bug Report
+name: 'Bug Report'
 - type: markdown
   attributes:
     value: "# Thank you for submitting!"
 - type: textarea
   attributes: 
-    label: Bug Description
-    description: Clear and concise description of the bug.
-    placeholder: You know this one is required, right?
+    label: 'Bug Description'
+    description: 'Clear and concise description of the bug.'
+    placeholder: 'You know this one is required, right?'
   validations:
     required: true
 - type: textarea
   attributes:
-    label: Reproduce
-    description: Steps to reproduce the bug.
-    placeholder: Please be specific.
+    label: 'Reproduce'
+    description: 'Steps to reproduce the bug.'
+    placeholder: 'Please be specific.'
   validations:
     required: true
 - type: textarea
   attributes:
-    label: Version Number
-    description: Build this bug was found in.
-    placeholder: Semantic Versioning cool
+    label: 'Version Number'
+    description: 'Build this bug was found in.'
+    placeholder: 'Semantic Versioning cool'
   validations:
     required: true
