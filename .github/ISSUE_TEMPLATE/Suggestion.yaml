@@ -12,3 +12,10 @@ body:
     placeholder: 'This better be good. Thank you!'
   validations:
     required: true
+- type: input
+  attributes:
+    label: 'Version Number'
+    description: 'Build this suggestion is for.'
+    placeholder: 'Semantic Versioning cool'
+  validations:
+    required: true
