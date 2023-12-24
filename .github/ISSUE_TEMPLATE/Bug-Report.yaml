@@ -1,3 +1,4 @@
+name: Bug Report
 - type: markdown
   attributes:
     value: "# Thank you for submitting!"
