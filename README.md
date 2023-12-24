@@ -6,7 +6,7 @@ So, I thought it would be funny to remaster the game in GameMaker Studio.
 ## Some Info
 Things you should know: 
 - Main Releases will be uploaded on itch.io, not here. See my itch.io [here.](https://ramendoodles.itch.io/)
-- Minor Updates, Demos, and Bugfixes will be uploaded to the Releases tab here.
+- Minor Updates, Demos, and Bugfixes will be uploaded to the repository here.
 - Bugfixes will have a '-f' followed by the issue number (if from an issue) and the fix number appended to the version number.
 - Beta Demos will have a '-b' appended to the version number.
 - Alpha Demos will have a '-a' appended to the version number.
