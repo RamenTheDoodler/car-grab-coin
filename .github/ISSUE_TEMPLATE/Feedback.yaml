@@ -1,0 +1,14 @@
+name: 'Feedback'
+description: 'Providing feedback on the latest update.'
+labels: 'feedback'
+body:
+- type: markdown
+  attributes:
+    value: "# Thank you for submitting!"
+- type: textarea
+  attributes:
+    label: 'Feedback'
+    description: 'Provide your feedback.'
+    placeholder: "As long as it's constructive, I guess."
+  validations:
+    required: true
