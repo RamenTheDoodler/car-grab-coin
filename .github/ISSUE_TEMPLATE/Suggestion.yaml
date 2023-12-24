@@ -1,0 +1,14 @@
+name: 'Suggestion'
+description: 'Suggest a new feature.'
+labels: 'suggestion'
+body:
+- type: markdown
+  attributes:
+    value: "# Thank you for submitting!"
+- type: textarea
+  attributes:
+    label: 'Suggestion'
+    description: 'Suggestion description. Please be specific.'
+    placeholder: 'This better be good. Thank you!'
+  validations:
+    required: true
