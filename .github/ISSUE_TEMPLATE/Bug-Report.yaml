@@ -5,7 +5,7 @@ body:
 - type: markdown
   attributes:
     value: "# Thank you for submitting!"
-- type: textarea
+- type: input
   attributes: 
     label: 'Bug Description'
     description: 'Clear and concise description of the bug.'
@@ -19,7 +19,7 @@ body:
     placeholder: 'Please be specific.'
   validations:
     required: true
-- type: textarea
+- type: input
   attributes:
     label: 'Version Number'
     description: 'Build this bug was found in.'
