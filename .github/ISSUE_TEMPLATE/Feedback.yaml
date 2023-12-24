@@ -12,3 +12,10 @@ body:
     placeholder: "As long as it's constructive, I guess."
   validations:
     required: true
+- type: input
+  attributes:
+    label: 'Version Number'
+    description: 'Build this feedback is for.'
+    placeholder: 'Semantic Versioning cool'
+  validations:
+    required: true
